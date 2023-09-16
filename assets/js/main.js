@@ -108,6 +108,7 @@ var swiperPortfolio = new Swiper('.swiperPortfolio', {
   }
 })
 
+/** TESTIMONIAL SWIPER */
 var swiperTestimonial = new Swiper('.swiperTestimonial', {
   loop: true,
   grabCursor: true,
